@@ -223,6 +223,10 @@ _pkginfo.txt
 *.appxbundle
 *.appxupload
 
+# VS code Linux files
+Emulation/.vscode/
+Emulation/main
+
 # Visual Studio cache files
 # files ending in .cache can be ignored
 *.[Cc]ache
